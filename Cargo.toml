@@ -1,5 +1,5 @@
 [package]
-name = "rust-practices-2"
+name = "easy-rust-2"
 version = "0.1.0"
 authors = ["VentGrey <omarpurataf@gmail.com>"]
 edition = "2018"
